@@ -467,7 +467,7 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
-    description: '1234567'
+    description: '12345678'
   hero_section:
     type: object
     label: Hero section
