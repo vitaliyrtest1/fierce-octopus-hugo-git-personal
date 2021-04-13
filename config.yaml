@@ -84,6 +84,7 @@ params:
       target="_blank" rel="noopener">Stackbit</a>. Create yours <a
       href="https://app.stackbit.com/create?theme=personal&utm_source=deployed-footer"
       target="_blank" rel="noopener">now</a>
+  domain: 'https://fierce-octopus-hugo-git-personal-58b52.netlify.app'
 taxonomies:
   stub: stub
 disableKinds:
