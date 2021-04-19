@@ -54,7 +54,9 @@
 			{{ end }}
 			{{ if $feature.content }}
 			<div class="feature__copy">
-				{{ partial "markdownify-block" $feature.content }}
+                <p>start</p>
+                {{ partial "markdownify-block" $feature.content }}
+                <p>end</p>
 			</div>
 			{{ end }}
 			{{ if $feature.actions }}
